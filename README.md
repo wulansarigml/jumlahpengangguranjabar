@@ -1,6 +1,7 @@
 # jumlahpengangguranjabar
 Jumlah Pengangguran Terbuka Berdasarkan Pendidikan dan Kabupaten/Kota di Jawa Barat 2011-2021
 
+Tools: SQL Server Management Studio 19
 
 Disclaimer:
 Dataset yang digunakan dalam project ini sepenuhnya dimiliki oleh Dinas Tenaga Kerja dan Transmigrasi Jawa Barat yang dipublikasi melalui Open Data Jawa Barat.
